@@ -1,4 +1,4 @@
-# Timecard Summary with Dash
+# Project Cost Management with Dash
 Dashboard to visualize the expenditure of individuals/teams for project managers in a company.
 
 __Background__</br>
